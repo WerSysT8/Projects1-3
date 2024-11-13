@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "practika-441410",
+  "private_key_id": "e8605dc74bcfb2efe8b80fb4ffef04a26f3f1eda",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCr0VVSZkUeP4Qi\nb/9tE8E3hA3mcpTcZr/NSiLRNZV2Ld4xRFNBOAfiyDGRlUiJdi8DaT9vX6DDgyTd\nCVQ0PLA1Wf7QcNF8if6QQDFcArs1KkExJL2WuWo20AJ1jkwEitw8gF04zOOPi53d\nt6qCUDecRXy8mSzwhMqsMKSpM67/X76wBvwMI6aRQUNeHWsbiWJ0/pgIjqpTW44B\neYq9RnO7/pzCuE0D6d+I2MLiRuzVlAIwBIlXV+d4L54yT/+ZfbyBIYHqbDl6cVC+\nvwZRNyJghaqR/u+Qm2jEUq8Cuhs4UeZQmgcGiEtjYFS1cMn4EI5iFH+SZ+fiSblJ\nyFxuisHNAgMBAAECggEABHNzECQlmLvA/spjdc4r9HX3jTd9Kzt/LwCDZ+OJOGtG\nRQT12ivrKmEQxap2G1eELsSwd8BksAPq9c3q0EKdNvianQg7KQyDG3YKQU2xz1YF\no9IFlky912cqlSSHTBvTyj5yC8llAMA3afm60U7mLeZv7YvTSfTKsky9S0PTPfrQ\nRHBQ+9Pn9hh6xVU8wsuRa1eI0IgzjH5gPjFRUdWV4hi559AhNFLARSwZvIJZuXme\n+nilNEHZ6x39z9k3bpfUp4CVzOZjXplsRZA7uaATI26YkL4GnWlSXrEDD3XIhbKx\nTMUA08qIhKMqCaqOtfRwO9vsP5bXFStjeZ8RdLaFKQKBgQDwVu2jS9+rA0Yn34e7\nRhr/UXN0WmNfZ6T+WJUGgDzzVJx7kN3xPcUjD1q80moA00Fth4VNfPdUQf+/Icqf\nkxtQ9moD77fohlOg+Y9V7CIGHxvlmzTu0pDcvlz8gdZ7UL5c99Xz8wukJNzW8QJW\n6/JlZqabvMgs4vmhefzqgFoFeQKBgQC3A2a2Z/70IMgfobeP7+uVjaE0yOTTKnPD\noixnHQv073PsHIyC/GVo/MXGVmsnrAUVMN2tCLLNpY6wm7tG8o3PRoZKJfO4NRle\n8zaoPGZiCBQVqO5dQpfePQPe/XalOQHM58e3bZqJvUx3C40dliQ9EUUV7pDjvws8\nkJIFW8dt9QKBgHKiU8iOmQl9j0nXcWseviPHmtUFg95uliEG6VXndqrtUZISf/nf\n55aYbUQg7JSmLs/qUuep0mJq9Gwa1wWT6fSNA/YKseKDp4HhZr+p2HSpA+pZRD8h\nSh0v4zRBTacV1SaMw40PAR9ywa7315DUC5LYCmHAAo5+WGjvwXWscMOpAoGAfKtQ\neMl3IA6ExSeAyAiDzyjfu/luB3tPyODcppFe58eGjD0WatRMsKwgfe+4pxnDjJ/x\nIkJeq0AwZ5ZuiPIKMDy2liQsVju1wLylaw1aIUWniOm/FsCae8XMsUawX/TpiRAL\nOKTtNQ9C24V+57yzivYMvdf502r82JETJ5tRy1ECgYBSvfakwGl9RAfyDwdjnVpb\ntATOUugMntfK8JTEQVwbiK/9s1HeBBXTjql/Pnz3e0mMi5Qze9iswtq5giekAnQ/\nTM3zvW9bs93eO641s5Qz2kp7NvlM39LCmt3rMUTvvx+0SmmaRfhV2aVRQHAJRgVo\nCsqLOM9HjR3L1a0CAPySUw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-service@practika-441410.iam.gserviceaccount.com",
+  "client_id": "101712111050243530640",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-service%40practika-441410.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
